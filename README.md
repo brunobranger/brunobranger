@@ -1,60 +1,81 @@
-<p>
-  <h1 align="center"><b>Hello there, I'm Bruno Branger 👋</b></h1>
-</p>
+<h1 align="center">Hi 👋, I'm Bruno Branger</h1>
+<h3 align="center">Computer Engineering Student | Full-Stack Developer</h3>
 
-<p>
-  <h4 align="center"><b>"Keep learning, keep growing."</b></h4>
-</p>
+---
 
-<br>
+<img align="right" height="220px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+
+### 👨‍💻 About Me
+
+- 🎓 Currently studying **Computer Engineering**
+- 💻 Building projects with modern web technologies
+- 🌱 Always learning and exploring new frameworks
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/brunobranger)
+- 📫 Reach me at **brunoianbranger@hotmail.com**
+- 🐧 Linux enthusiast (Arch, Ubuntu, Mint)
+
+### 🛠 Tech Stack
+
+**Languages**
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-1D9FD7?style=flat-square&logo=python&logoColor=white)
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Development Environment**
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=white)
+
+### 💬 Connect With Me
+
+[![Email](https://img.shields.io/badge/-brunoianbranger@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunoianbranger@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Bruno%20Branger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-branger/)
+[![Facebook](https://img.shields.io/badge/-Bruno%20Ian%20Branger-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brunoian.branger/)
+[![Instagram](https://img.shields.io/badge/-@brruunnoo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brruunnoo_/)
+
+---
 
 <p align="center">
-    <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-    <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:brunobranger@gmail.com?subject=Hello%20Bruno"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <i>Let's connect and build something amazing together!</i>
 </p>
-
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### I am a Computer Engineering Student at the University of Buenos Aires
-- 🔭 I’m currently working on projects related to **web development and system programming** :grin:
-- 🌱 I’m currently learning **Fullstack Development** (React.js, Node.js, Django, Flask, Go)
-- 👯 I’m looking to collaborate on **open-source or educational tech projects** :wink:
-- 🥅 2025 Goals: Improve my backend and DevOps skills
-- 💬 Ask me about **Python, JavaScript, or system fundamentals**
-- 📬 How to reach me: [brunobranger@gmail.com](mailto:brunobranger@gmail.com)
-- 🧗 I try to: **learn something new every day**
-- ⚡ Fun fact: I built my own PC and love optimizing performance!
-
-<br>
-
-### 🛠️ Languages and Tools:
-
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-<img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
-<img align="left" alt="Go" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
-</div>
