@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Proyecto 01",
+    "description": "Descripción breve de qué hace este proyecto y qué problema resuelve.",
+    "url": "https://github.com/brunobranger/proyecto-01",
+    "demo": "https://proyecto-01.vercel.app",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "name": "Proyecto 02",
+    "description": "Descripción breve de qué hace este proyecto y qué problema resuelve.",
+    "url": "https://github.com/brunobranger/proyecto-02",
+    "demo": "",
+    "tags": ["TypeScript", "Next.js", "Docker"]
+  },
+  {
+    "name": "Proyecto 03",
+    "description": "Descripción breve de qué hace este proyecto y qué problema resuelve.",
+    "url": "https://github.com/brunobranger/proyecto-03",
+    "demo": "https://proyecto-03.vercel.app",
+    "tags": ["Python", "FastAPI", "PostgreSQL"]
+  },
+  {
+    "name": "Proyecto 04",
+    "description": "Descripción breve de qué hace este proyecto y qué problema resuelve.",
+    "url": "https://github.com/brunobranger/proyecto-04",
+    "demo": "",
+    "tags": ["JavaScript", "Express", "Redis"]
+  }
+]
