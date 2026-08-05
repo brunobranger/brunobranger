@@ -8,12 +8,12 @@
 <!-- ── 2. METRICS ── -->
 <div align="center">
 
-<img src="streak-stats.demolab.com?user=brunobranger&hide_border=true&background=0D1117&stroke=8A2BE230&ring=8A2BE2&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=BF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555577&card_width=440" height="160" alt="Streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=brunobranger&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF00FF&text_color=CCCCCC&count_private=true&include_all_commits=true&card_width=440" height="160" alt="Stats"/>
+<img src="https://streak-stats.demolab.com/?user=brunobranger&theme=synthwave&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=BF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555577&stroke=8A2BE230" height="160" alt="Streak"/>
+<img src="https://readme-stats-brunobranger.vercel.app/api?username=brunobranger&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF00FF&text_color=CCCCCC&count_private=true&include_all_commits=true&card_width=440" height="160" alt="Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobranger&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=CCCCCC&langs_count=8&card_width=500" alt="Top Languages"/>
+<img src="https://readme-stats-brunobranger.vercel.app/api/top-langs/?username=brunobranger&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=CCCCCC&langs_count=8&card_width=500" alt="Top Languages"/>
 
 <br/>
 
