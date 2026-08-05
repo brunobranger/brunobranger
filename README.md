@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  brunobranger — GitHub Profile README · Cyberpunk Terminal Neon   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <!-- ── 1. ANIMATED HEADER ── -->
 <div align="center">
 <img src="./assets/header.svg" width="100%" alt="Bruno Branger — System Info"/>
@@ -12,7 +8,7 @@
 <!-- ── 2. METRICS ── -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=brunobranger&hide_border=true&background=0D1117&stroke=8A2BE230&ring=8A2BE2&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=BF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555577&card_width=440" height="160" alt="Streak"/>
+<img src="streak-stats.demolab.com?user=brunobranger&hide_border=true&background=0D1117&stroke=8A2BE230&ring=8A2BE2&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=BF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555577&card_width=440" height="160" alt="Streak"/>
 <img src="https://github-readme-stats.vercel.app/api?username=brunobranger&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=FF00FF&text_color=CCCCCC&count_private=true&include_all_commits=true&card_width=440" height="160" alt="Stats"/>
 
 <br/>
